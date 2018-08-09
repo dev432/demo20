@@ -9,11 +9,6 @@ package com.mycompany.demop20;
  *
  * @author Administrator
  */
-public class test1 {
-    anything
-            d
-            ddd
-                    dd
-                    d
-                            
+public class test2 {
+    
 }
